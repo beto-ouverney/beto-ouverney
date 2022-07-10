@@ -7,7 +7,7 @@ Front End
 * 🌍  I'm based in Niterói, RJ
 * ✉️  You can contact me at [beto.paz30@gmail.com](mailto:beto.paz30@gmail.com)
 * 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on React, Vue.js, JavaScript, Go Lang
+* 🤝  I'm open to collaborating on React, Vue.js, JavaScript, Go Lang, Node.JS
 * ⚡  I love meeting new people and new technologies and languages
 
 ### Skills
