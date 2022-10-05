@@ -1,7 +1,7 @@
 Hi 👋 My name is Alberto Ouverney Paz
 =====================================
 
-Front End
+Software Engineer
 ---------
 
 * 🌍  I'm based in Niterói, RJ
